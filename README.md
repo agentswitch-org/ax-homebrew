@@ -1,4 +1,4 @@
-# homebrew-ax
+# ax-homebrew
 
 Homebrew tap for [ax (agentswitch)](https://github.com/noahirzinger/agentswitch), a daemonless job switchboard and control plane for command-line coding agents.
 
